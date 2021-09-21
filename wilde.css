@@ -49,3 +49,7 @@ th{
 tr:nth-child(even){
     background-color: lightblue;
 }
+h6.lord_Darlington:hover{
+    text-shadow: lightslategray;
+    border-style: outset;
+}
