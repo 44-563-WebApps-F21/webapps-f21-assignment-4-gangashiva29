@@ -18,4 +18,34 @@ p.stage-direction:hover{
     color: firebrick;
 }
 
+h6{
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    color:black;
+}
 
+h6.lord_Darlington{
+    color: darkcyan;
+}
+
+h6.lady_windermere{
+    color: darkslategray;
+}
+
+table,th,td {
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+}
+
+th{
+    font-size: 30px;
+    background-color: lavender;
+}
+
+tr:nth-child(even){
+    background-color: lightblue;
+}
