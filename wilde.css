@@ -50,11 +50,13 @@ tr:nth-child(even){
     background-color: lightblue;
 }
 h6.lord_Darlington:hover{
-    text-shadow: lightslategray;
+    text-shadow: rgb(20, 117, 214);
     border-style: outset;
+    filter: blur(1px);
 }
 
 h6.lady_windermere:hover{
     text-shadow: lightslategray;
     border-style: outset;
+    filter: blur(1px);
 }
